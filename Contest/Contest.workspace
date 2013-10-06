@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Contest" Database="./Contest.tags">
+  <Project Name="A_Planting" Path="A_Planting/A_Planting.project" Active="No"/>
+  <Project Name="A_Plantingcpp" Path="A_Plantingcpp/A_Plantingcpp.project" Active="No"/>
+  <Project Name="G_SecureDelete" Path="G_SecureDelete/G_SecureDelete.project" Active="No"/>
+  <Project Name="F_TimeBomb" Path="F_TimeBomb/F_TimeBomb.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="A_Planting" ConfigName="Debug"/>
+      <Project Name="A_Plantingcpp" ConfigName="Debug"/>
+      <Project Name="G_SecureDelete" ConfigName="Debug"/>
+      <Project Name="F_TimeBomb" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="A_Planting" ConfigName="Release"/>
+      <Project Name="A_Plantingcpp" ConfigName="Release"/>
+      <Project Name="G_SecureDelete" ConfigName="Release"/>
+      <Project Name="F_TimeBomb" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
